@@ -2,3 +2,4 @@
 stack.yaml
 stack.yaml.lock
 inputs/
+dist-newstyle/
