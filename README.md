@@ -32,3 +32,9 @@ type String = [Char]
 
 ## Day 03
 
+### Part 1
+* The way of the purely-functional programmer - Loops are not pure, we use recursion.
+    * Why? Loops require variables and variables mutate state and we don't like mutating state!
+
+
+### Part 2
